@@ -1,15 +1,7 @@
 -----------------------
 # README
 -----------------------
-Browny is a one page bootstrap 3 based resume/portfolio template.
-
-
-Template Info:
------------------------
-Name: 		Browny - Free Bootstrap One Page Portfolio Resume Tempalte
-Version: 	1.0
-Author: 	ThemeSINE
-Website: 	https://www.themesine.com/
+Portfolio Website
 
 
 Changelog:
@@ -28,7 +20,3 @@ Credits:
 - Bootsnav http://bootsnav.danurstrap.com/
 - Pexels https://www.pexels.com/
 - Unsplash https://unsplash.com/
-
-License:
------------------------
-This template is under Free License - https://www.themesine.com/license/
