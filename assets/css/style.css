@@ -1,6 +1,5 @@
 /*==================================
-* Author        : "ThemeSine"
-* Template Name :  Browny  HTML Template
+* Author        : "zain ul abdeen"
 * Version       : 1.0
 ==================================== */
 
@@ -281,13 +280,16 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     content: " ";
     top: 0;
     left:  0;
-    width: 109%;
+    width: 50%;
     height:  100%;
     background: rgba(31,44,108,.3);
 }
 .single-about-img img {
     max-width: 500px;
     height: 468px;
+    object-fit: cover;
+    width: 100%;
+    /* background-size: cover; */
 }
 .about-list-icon{
     display: flex;
